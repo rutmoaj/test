@@ -4,5 +4,6 @@ public class Test{
 		System.out.println("Hej test test");
 		System.out.println("Hej ngrok! Det funkar!!");
 		System.out.println("Hej hopp nu blir det mail! Andra försöket, hoppas det funkar nu!");
+		System.out.println("Nu äntligen funkar det!");
 	}
 }
