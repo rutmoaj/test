@@ -3,6 +3,6 @@ public class Test{
 		System.out.println("Hej Jenkins");
 		System.out.println("Hej test test");
 		System.out.println("Hej ngrok! Det funkar!!");
-		System.out.println("Hej hopp nu blir det mail!");
+		System.out.println("Hej hopp nu blir det mail! Andra försöket, hoppas det funkar nu!");
 	}
 }
